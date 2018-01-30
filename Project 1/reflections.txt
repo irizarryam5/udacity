@@ -1,0 +1,36 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+Alex Irizarry 1/30/2018
+
+Question 1:
+
+I went into this course with a decent amount of programming experience\n
+and therefore thus far I have not come across anything that I did not\n
+know how to do. I have not used the strikethrough tags in quite some\n
+time so I did have to refresh myself.
+
+Question 2: 
+
+The easiest part of the experience for me so far has been the receiving\n
+of instruction. The content is presented in a way that is quite easy to\n
+understand and the directions are easy to follow.
+
+Question 3:
+
+The most difficult part of the experience so far has been not wanting to\n
+stop working. The experience is so fun and rewarding that I find myself\n
+unable to log off.
+
+Question 4: 
+
+I have used the problem solving strategies that were outlined to refresh myself\n
+which HTML tags are necessary in which situations(e.g. <p> tags have margins but\n
+<span> tags do not).
